@@ -12,7 +12,7 @@
     <display-name>ACC Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/ACCN.png" width="512" height="512"/>
   </channel>
-  <channel id="AE">
+  <channel id="AETV">
     <display-name>A&amp;E Network</display-name>
     <icon src="https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-light-bg/AE.png" width="512" height="512"/>
   </channel>
